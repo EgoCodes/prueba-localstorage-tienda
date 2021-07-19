@@ -1,0 +1,2 @@
+En la carpeta de imagenes se ponen las de los productos tambien y luego se ponen n la base de datos
+Por ejemplo si la imagen se llama proteina.jpg, así mismo se debe de poner en la base de datos
